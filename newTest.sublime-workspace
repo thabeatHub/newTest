@@ -1,0 +1,199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"pi ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/David/AppData/Local/Temp/6471e029-2e5d-4a38-95cd-25875458e990/home/wizdrafts/wizdrafts.com/index.html",
+		"/C/Users/David/AppData/Roaming/Sublime Text 3/Installed Packages/LiveReload.sublime-package",
+		"/C/Users/David/AppData/Local/Temp/d6895cd3-40ed-4371-bfe5-ee67235afa61/home/wizweavers/web/bequip/themes/bartik/css/style.css",
+		"/C/Users/David/AppData/Local/Temp/d6895cd3-40ed-4371-bfe5-ee67235afa61/home/wizweavers/web/bequip/themes/stark/layout.css",
+		"/D/Web Playground/index.html",
+		"/C/Users/David/SkyDrive/Público/test.txt",
+		"/D/Downloads/Nujabes All Studio Albums [FLAC]/Thanks.txt",
+		"/D/Downloads/Adobe Premiere Pro CS5.5/INSTALLING INSTRUCTIONS.txt",
+		"/D/Downloads/Adobe Premiere Pro CS5.5/HOSTS SET-UP/IMPORTANT SO READ FIRST.txt",
+		"/D/Downloads/Adobe Premiere Pro CS5.5/HOSTS SET-UP/hosts",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/Dropbox/wizWeavers/Produccion/passwd.txt",
+		"/D/Downloads/Adobe Premiere Pro CC 7.2.2 Multilanguage [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/D/Downloads/Adobe Illustrator CS6 16.0.0 (32-64 bit) [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/D/Downloads/Adobe Premiere Pro CC 7.2.1 Multilanguage [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/D/Dropbox/Work/Sublime Packages.txt",
+		"/C/Users/David/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/David/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/Dropbox/Work/Files SETUP CONFIGS/defaul_conf_nginx",
+		"/D/Dropbox/Work/Files SETUP CONFIGS/vimrc"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "newTest.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
